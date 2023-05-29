@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LocalMyApp</string>
+    <string name="button">Button</string>
+    <string name="beer_types">Beer Types</string>
+    <string name="find_beer">Find Beer</string>
+    <string name="brands">No Beer Selected</string>
+    <string-array name="beer_color">
+        <item>Light</item>
+        <item>Amber</item>
+        <item>Brown</item>
+        <item>Dark</item>
+    </string-array>
+</resources>
